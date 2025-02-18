@@ -223,7 +223,7 @@ This error occurs when your date range exceeds MySQL's recursive CTE limit. Solu
 ## Credits
 
 - **SQL Development**: Navid Behrangi
-- **Project Repository**: [https://github.com/navidb/metabase-persian-calendar](url)
+- **Project Repository**: [https://github.com/navidb/metabase-persian-calendar](https://github.com/navidb/metabase-persian-calendar)
 - **License**: MIT
 
 **If you find this project useful, please consider giving it a star on GitHub.**
