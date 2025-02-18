@@ -64,7 +64,7 @@ Feel free to reach out if you have questions about the project or want to collab
 
 ## Support
 If you find this project useful, please consider:
-- Giving it a 🌟star on GitHub
+- Giving it a ⭐️star on GitHub
 - Contributing improvements
 - Sharing with others who might benefit
 
